@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rotatable {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+.tile {
+  background-color: lavender;
+  position: absolute;
+  /* height: 90px;
+  width: 90px; */
+  box-sizing: border-box;
+  border-width: 0px;
+  margin: 0;
+  border-style: solid;
+  border-color: white;
+}
